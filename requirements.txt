@@ -65,7 +65,7 @@ sentencepiece==0.1.99
 six==1.16.0
 smmap==5.0.1
 SQLAlchemy==2.0.21
-streamlit==1.26.0
+streamlit==1.30.0
 sympy==1.12
 tenacity==8.2.3
 threadpoolctl==3.2.0
